@@ -1,6 +1,6 @@
 # ArToolKitJpctBaseLib
 
-This project provices an easy way to create AR applications for Android using ARToolKit and jPCT-AE together.
+This project provides an easy way to create AR applications for Android using ARToolKit and jPCT-AE together.
 
 * ARToolKit provides marker detection and tracking, but the interface is raw OpenGL
 * jPCT-AE is a 3D engine that provides high level concepts such as Camera, Object3D, Textures, ObjectLoaders, etc.
